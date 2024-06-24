@@ -1,0 +1,12 @@
+[
+    {
+        "id": 1,
+        "name": "Author One",
+        "biography": "Biography of Author One"
+    },
+    {
+        "id": 2,
+        "name": "Author Two",
+        "biography": "Biography of Author Two"
+    }
+]

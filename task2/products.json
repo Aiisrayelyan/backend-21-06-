@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "name": "Laptop",
+        "description": "High performance laptop",
+        "price": 999.99
+    },
+    {
+        "id": 2,
+        "name": "Smartphone",
+        "description": "Latest model smartphone",
+        "price": 699.99
+    },
+    {
+        "id": 3,
+        "name": "Headphones",
+        "description": "Noise-cancelling headphones",
+        "price": 199.99
+    }
+]

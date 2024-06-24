@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "name": "Alice Johnson",
+        "email": "alice.johnson@example.com",
+        "password": "password123",
+        "profile": {
+            "bio": "Software developer with a passion for open-source projects.",
+            "profilePicture": "https://example.com/alice.jpg"
+        }
+    },
+    {
+        "id": 2,
+        "name": "Bob Smith",
+        "email": "bob.smith@example.com",
+        "password": "password456",
+        "profile": {
+            "bio": "Graphic designer and digital artist.",
+            "profilePicture": "https://example.com/bob.jpg"
+        }
+    },
+    {
+        "id": 3,
+        "name": "Charlie Brown",
+        "email": "charlie.brown@example.com",
+        "password": "password789",
+        "profile": {
+            "bio": "Content writer and blogger.",
+            "profilePicture": "https://example.com/charlie.jpg"
+        }
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "id": 1,
+        "name": "Project Alpha",
+        "description": "First project description",
+        "tasks": [
+            {
+                "id": 1,
+                "name": "Task 1",
+                "description": "First task description",
+                "deadline": "2024-06-15"
+            },
+            {
+                "id": 2,
+                "name": "Task 2",
+                "description": "Second task description",
+                "deadline": "2024-06-20"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Project Beta",
+        "description": "Second project description",
+        "tasks": [
+            {
+                "id": 1,
+                "name": "Task A",
+                "description": "Task A description",
+                "deadline": "2024-06-25"
+            }
+        ]
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "id": 1,
+        "title": "Book One",
+        "genre": "Fiction",
+        "authorIds": [1]
+    },
+    {
+        "id": 2,
+        "title": "Book Two",
+        "genre": "Non-Fiction",
+        "authorIds": [1, 2]
+    }
+]

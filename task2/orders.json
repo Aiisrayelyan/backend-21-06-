@@ -1,0 +1,28 @@
+[
+    {
+        "id": 1,
+        "userId": 1,
+        "items": [
+            {
+                "productId": 1,
+                "quantity": 1
+            },
+            {
+                "productId": 3,
+                "quantity": 2
+            }
+        ],
+        "status": "pending"
+    },
+    {
+        "id": 2,
+        "userId": 2,
+        "items": [
+            {
+                "productId": 2,
+                "quantity": 1
+            }
+        ],
+        "status": "shipped"
+    }
+]

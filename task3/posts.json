@@ -1,0 +1,35 @@
+[
+    {
+        "id": 1,
+        "title": "First Blog Post",
+        "content": "This is the content of the first blog post.",
+        "author": "Author One",
+        "comments": [
+            {
+                "id": 1,
+                "content": "Great post!",
+                "author": "Commenter One"
+            },
+            {
+                "id": 2,
+                "content": "Thanks for sharing!",
+                "author": "Commenter Two"
+            }
+        ],
+        "likes": 10
+    },
+    {
+        "id": 2,
+        "title": "Second Blog Post",
+        "content": "This is the content of the second blog post.",
+        "author": "Author Two",
+        "comments": [
+            {
+                "id": 1,
+                "content": "Interesting read.",
+                "author": "Commenter Three"
+            }
+        ],
+        "likes": 5
+    }
+]
